@@ -1,7 +1,7 @@
-baseURL = 'https://example.com/'
+baseURL = 'https://obifediba.com/'
 languageCode = 'en-us'
-title = "John Doe's website"
-copyright = 'John Doe' # Used in the footer copyright mention.
+title = "Obi Ifediba's website"
+copyright = 'Obi Ifediba' # Used in the footer copyright mention.
 enableRobotsTXT = true # IMPORTANT: set to true if you want to use the theme's genAI/LLM web crawler blocking feature.
 
 [module]
