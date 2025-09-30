@@ -1,0 +1,67 @@
+baseURL = 'https://obifrfr.github.io/obifediba/'
+languageCode = 'en-us'
+title = 'Obi Ifediba'
+copyright = 'Obi Ifediba'
+enableRobotsTXT = true
+
+theme = "til"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[outputs]
+  home = ['html']
+  section = ['html', 'rss', 'json']
+  page = ['html']
+
+[menus]
+  
+  [[menus.main]]
+    name = 'Projects'
+    pageRef = '/projects'
+    weight = 20
+   [[menus.main]]
+     name = 'Resume'
+     pageRef = '/resume'
+     weight = 30
+   [[menus.main]]
+     name = 'CV'
+     pageRef = '/cv'
+     weight = 40
+   [[menus.main]]
+    name = 'Blog'
+    pageRef = '/blog'
+    weight = 50
+   [[menus.main]]
+     name = 'Graph'
+     pageRef = '/graph'
+     weight = 60
+
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = 'tokyonight-night'
+
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+
+[params]
+  name = 'Obi Ifediba'
+  email = 'me@obifediba.com'
+  math = true
+
+  [params.home]
+    showRecentNotes = false
+    recentPostsLimit = 1
+
+  [params.footer]
+    showThemeCredit = false
+
+  [params.robotstxt]
+    blockCC = true
+    blockAI = true
