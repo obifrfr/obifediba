@@ -48,4 +48,4 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://obifrfr.github.io/obifediba/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml

@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Obi Ifediba</title>
-    <link>https://obifrfr.github.io/obifediba/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Obi Ifediba</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Obi Ifediba</copyright>
     <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://obifrfr.github.io/obifediba/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installation and setup</title>
-      <link>https://obifrfr.github.io/obifediba/projects/installation/</link>
+      <link>http://localhost:1313/projects/installation/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://obifrfr.github.io/obifediba/projects/installation/</guid>
+      <guid>http://localhost:1313/projects/installation/</guid>
       <description>&lt;p&gt;This post shows how to install and set up the Today I Learned theme on your own Hugo website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configuration reference</title>
-      <link>https://obifrfr.github.io/obifediba/projects/configuration/</link>
+      <link>http://localhost:1313/projects/configuration/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://obifrfr.github.io/obifediba/projects/configuration/</guid>
+      <guid>http://localhost:1313/projects/configuration/</guid>
       <description>&lt;p&gt;The following shows all the theme&amp;rsquo;s configuration options you can specify in your site&amp;rsquo;s hugo.toml file:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>https://obifrfr.github.io/obifediba/projects/shortcodes/</link>
+      <link>http://localhost:1313/projects/shortcodes/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://obifrfr.github.io/obifediba/projects/shortcodes/</guid>
+      <guid>http://localhost:1313/projects/shortcodes/</guid>
       <description>&lt;p&gt;The theme includes several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;&gt;shortcodes&lt;/a&gt; for custom features, like linking notes and posts in the content graph, adding&#xA;context with side notes, and emphasizing key points with admonitions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>https://obifrfr.github.io/obifediba/projects/about-til-theme/</link>
+      <link>http://localhost:1313/projects/about-til-theme/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://obifrfr.github.io/obifediba/projects/about-til-theme/</guid>
+      <guid>http://localhost:1313/projects/about-til-theme/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Today I Learned&lt;/strong&gt; is a &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; theme designed for simplicity, readability, and easy content discovery. It supports both&#xA;full-length blog posts for more in-depth content and quick notes for those smaller insights you want to save or share.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://obifrfr.github.io/obifediba/projects/markdown-syntax/</link>
+      <link>http://localhost:1313/projects/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://obifrfr.github.io/obifediba/projects/markdown-syntax/</guid>
+      <guid>http://localhost:1313/projects/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>https://obifrfr.github.io/obifediba/projects/rich-content/</link>
+      <link>http://localhost:1313/projects/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://obifrfr.github.io/obifediba/projects/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h3 id=&#34;&#34; class=&#34;scroll-mt-8 group&#34;&gt;&#xA;  &#xA;  &#xA;    &lt;a href=&#34;#&#34;&#xA;        class=&#34;no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block&#34;&#xA;        aria-hidden=&#34;true&#34; title=&#34;Link to this heading&#34; tabindex=&#34;-1&#34;&gt;&#xA;        &lt;svg&#xA;  xmlns=&#34;http://www.w3.org/2000/svg&#34;&#xA;  width=&#34;16&#34;&#xA;  height=&#34;16&#34;&#xA;  fill=&#34;none&#34;&#xA;  stroke=&#34;currentColor&#34;&#xA;  stroke-linecap=&#34;round&#34;&#xA;  stroke-linejoin=&#34;round&#34;&#xA;  stroke-width=&#34;2&#34;&#xA;  class=&#34;lucide lucide-link w-4 h-4 block&#34;&#xA;  viewBox=&#34;0 0 24 24&#34;&#xA;&gt;&#xA;  &lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; /&gt;&#xA;  &lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; /&gt;&#xA;&lt;/svg&gt;&#xA;&#xA;    &lt;/a&gt;&#xA;  &#xA;&lt;/h3&gt;</description>
+      <guid>http://localhost:1313/projects/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h3 id=&#34;heading&#34; class=&#34;scroll-mt-8 group&#34;&gt;&#xA;  &#xA;  &#xA;    &lt;a href=&#34;#heading&#34;&#xA;        class=&#34;no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block&#34;&#xA;        aria-hidden=&#34;true&#34; title=&#34;Link to this heading&#34; tabindex=&#34;-1&#34;&gt;&#xA;        &lt;svg&#xA;  xmlns=&#34;http://www.w3.org/2000/svg&#34;&#xA;  width=&#34;16&#34;&#xA;  height=&#34;16&#34;&#xA;  fill=&#34;none&#34;&#xA;  stroke=&#34;currentColor&#34;&#xA;  stroke-linecap=&#34;round&#34;&#xA;  stroke-linejoin=&#34;round&#34;&#xA;  stroke-width=&#34;2&#34;&#xA;  class=&#34;lucide lucide-link w-4 h-4 block&#34;&#xA;  viewBox=&#34;0 0 24 24&#34;&#xA;&gt;&#xA;  &lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; /&gt;&#xA;  &lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; /&gt;&#xA;&lt;/svg&gt;&#xA;&#xA;    &lt;/a&gt;&#xA;  &#xA;&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>https://obifrfr.github.io/obifediba/projects/math-typesetting/</link>
+      <link>http://localhost:1313/projects/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://obifrfr.github.io/obifediba/projects/math-typesetting/</guid>
+      <guid>http://localhost:1313/projects/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation with &lt;a href=&#34;https://katex.org/&#34;&gt;KaTeX&lt;/a&gt; is supported.&lt;/p&gt;</description>
     </item>
   </channel>
